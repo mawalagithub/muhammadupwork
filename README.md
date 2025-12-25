@@ -1,7 +1,4 @@
-<div align="center">
-  
-  <img src="https://github.com/muhammadupwork.png" alt="Muhammad Munir" width="180" style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
-  <br>
+
 
   # Muhammad Munir
   ### Virtual Operations Specialist | Certified Agile Design & Tech Pro
